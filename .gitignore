@@ -1,0 +1,46 @@
+# CMake / Build artifacts
+
+*build/                
+*CMakeFiles/           
+*CMakeCache.txt        
+*cmake_install.cmake   
+*Makefile              
+*.dir/                 
+*.o                    
+*.obj                  
+*.so                   
+*.dylib                
+*.dll                  
+*.exe                  
+*.out                  
+*.a                    
+*.lib                  
+*.pdb                  
+*.idb *.ipdb *.iobj    
+*.ilk *.manifest *.exp 
+
+
+# IDE-specific files
+
+# Visual Studio
+
+*.vscode
+*.vcxproj*                  
+*.sln                       
+*.vcuser*                   
+*.opensdf *.sdf             
+*.ipch *.pch *.ncb          
+*.suo *.user *.userosscache 
+*.vscode/
+
+
+# Temporary / Backup / OS files
+
+*.log                 
+*.tmp                 
+*.swp                 
+*~                    
+*.bak                 
+*.old                 
+*.DS_Store            
+*Thumbs.db            
